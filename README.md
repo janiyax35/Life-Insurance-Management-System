@@ -245,5 +245,5 @@ The system comes pre-configured with the following sample users:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eeff,100:0f0&height=120&section=footer&text=Secure%20Your%20Future&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005f40,100:00bf80&height=120&section=footer&text=Secure%20Your%20Future&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%">
 </div>
